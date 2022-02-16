@@ -10,6 +10,7 @@
 # 🎯 Interests
 
 - Getting to know various algorithms
+- Medical Device Cybersecurity
 - Making convenient things
 - Nowadays | Web Crawling in Python
 
