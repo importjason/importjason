@@ -7,7 +7,7 @@
 
 - Majoring Biomedical Engineering (2021.03~)
 
-# 🤔 Interests
+# 🤔✍️👀🔬📌 Interests
 
 - Getting to know various algorithms
 - Medical Device Cybersecurity
