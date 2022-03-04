@@ -3,9 +3,8 @@
 
 
 ### 🎓 Currently Learning
-   **Yonsei University, Wonju**
 
-- Majoring Biomedical Engineering (2021.03~)
+- Majoring Biomedical Engineering in Yonsei University, Wonju (2021.03~)
 
 ### 🔬 Interests
 
