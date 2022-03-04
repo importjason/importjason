@@ -6,7 +6,9 @@
 
 - Majoring Biomedical Engineering in Yonsei University, Wonju (2021.03~)
 
-### 🔬 Interests
+### 🏃🏃‍♂️🏃🏻
+
+### 🔬🔭 Interests
 
 - Getting to know various algorithms
 - Medical Device Cybersecurity
