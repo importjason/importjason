@@ -16,3 +16,4 @@
 ### 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=Atlassian&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=lat-square&logo=c&logoColor=white"/>
