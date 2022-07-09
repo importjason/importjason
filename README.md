@@ -11,7 +11,7 @@
 - Getting to know various algorithms
 - Medical Device Cybersecurity
 - Making convenient things
-- Nowadays | Web Crawling in Python
+- Nowadays | Artificial Neural Network
 
 ### 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>
