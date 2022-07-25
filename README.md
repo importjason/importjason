@@ -6,6 +6,10 @@
 
 - Majoring Biomedical Engineering in Yonsei University, Wonju (2021.03~)
 
+### 👨🏻‍💻 Experience
+
+- Undergraduate Intern at the Bio - Metamaterials Lab of Yonsei University, Wonju (2022.07~)
+
 ### 🔭 Interests
 
 - Getting to know various algorithms
