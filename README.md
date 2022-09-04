@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 Experience
 
-- Undergraduate Intern at the Bio - Metamaterials Lab of Yonsei University, Wonju (2022.07~)
+- Undergraduate Intern at the Bio - Metamaterials Lab of Yonsei University, Wonju (2022.07~2022.08)
 
 ### 🔭 Interests
 
