@@ -12,10 +12,9 @@
 
 ### 🔭 Interests
 
-- Getting to know various algorithms
+- Digital Signal Processing
 - Medical Device Cybersecurity
-- Making convenient things
-- Nowadays | Artificial Neural Network
+- Nowadays | Audio Compression
 
 ### 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>
