@@ -14,7 +14,7 @@
 
 - Digital Signal Processing
 - Medical Device Cybersecurity
-- Nowadays | Audio Compression
+- Nowadays | Medical Imaging with Deep Learning
 
 ### 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>
