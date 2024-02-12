@@ -17,7 +17,7 @@
 - Nowadays | Medical Imaging with Deep Learning
 
 ### 🛠
-<img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MATLAB-FF6600?style=square&logo=Atlassian&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-000000?style=square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=Atlassian&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=amazonec2&logoColor=white"/>
