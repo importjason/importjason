@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MATLAB-FF6600?style=square&logo=Atlassian&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog%0Clojure?style=square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog%FF0000?style=square&logo=swagger&logoColor=white"/>
