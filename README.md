@@ -5,10 +5,12 @@
 ### 🎓 Currently Learning
 
 - Majoring Biomedical Engineering in Yonsei University, Wonju (2021.03~)
+- Majoring Electrical & Electronic Engineering in Yonsei University, Sinchon (2023.09~)
 
 ### 👨🏻‍💻 Experience
 
 - Undergraduate Intern at the Bio - Metamaterials Lab of Yonsei University, Wonju (2022.07~2022.08)
+- Undergraduate Intern at the Advanced Image Processing Techniques Laboratory of Yonsei University, Wonju (2023.12~)
 
 ### 🔭 Interests
 
