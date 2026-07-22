@@ -1,25 +1,30 @@
-**Jason Kim / 김재승**
-========================
+# Jaeseung Kim
 
+Biomedical engineering researcher at **Yonsei University**, with a second major in **Electrical & Electronic Engineering**.
 
-### 🎓 Currently Learning
+My research interests center on **medical imaging AI**, particularly:
 
-- Majoring Biomedical Engineering in Yonsei University, Wonju (2021.03~)
-- Majoring Electrical & Electronic Engineering in Yonsei University, Sinchon (2023.09~)
+- MRI reconstruction and image formation
+- Quantitative MRI and image synthesis
+- Medical image harmonization
+- Neuroimaging and voxel-wise statistical analysis
+- Efficient deep learning for resource-constrained deployment
 
-### 👨🏻‍💻 Experience
+## Background
 
-- Undergraduate Intern at the Bio - Metamaterials Lab of Yonsei University, Wonju (2022.07~2022.08)
-- Undergraduate Intern at the Advanced Image Processing Techniques Laboratory of Yonsei University, Wonju (2023.12~)
+- Undergraduate Researcher, Advanced Image Processing Techniques Lab, Yonsei University
+- Department rank: **1 / 49**
+- GPA: **4.03 / 4.30**
 
-### 🔭 Interests
+## Selected Recognition
 
-- Digital Signal Processing
-- Medical Device Cybersecurity
-- Nowadays | Medical Imaging with Deep Learning
+- **Best Paper Award**, Korean Society of Medical & Biological Engineering Fall Conference, 2025
+- **National Science & Engineering Scholarship**, Korea Student Aid Foundation
 
-### 🛠
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MATLAB-FF6600?style=plastic&logo=Atlassian&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-000000?style=plastic&logo=amazonec2&logoColor=white"/>
+## Research Availability
+
+My current research projects are under development and remain private. Code and reproducibility materials will be released after publication or when disclosure is permitted.
+
+## Contact
+
+[Email](mailto:xmflak20@gmail.com)
